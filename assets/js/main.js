@@ -56,7 +56,7 @@
 						});
 
 						skel.on('+small', function() {
-							$banner.css('height', '');
+							$banner.css('height', '100vh');
 						});
 
 					}
