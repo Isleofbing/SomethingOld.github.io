@@ -4424,7 +4424,7 @@
 
 			#footer .icon.round:hover {
 				color: black;
-				background: red;
+				background: rgb(238, 47, 158);
 				box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25);
 			}
 
